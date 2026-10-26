@@ -1,0 +1,49 @@
+================================================================================
+SOUTHERN NEW HAMPSHIRE UNIVERSITY (SNHU)
+CS-320: Software Test Automation and Quality Assurance (Vida del Software)
+Actividad de Portafolio: Reflexión y Envío de Repositorio de GitHub
+================================================================================
+
+Estudiante: David de la Cruz Contreras
+Email: davidovni236@gmail.com
+Usuario GitHub: dobock13
+Fecha de Envío: 25 de octubre de 2026
+
+--------------------------------------------------------------------------------
+1. ENLACE AL REPOSITORIO DE GITHUB
+--------------------------------------------------------------------------------
+Repositorio del Portafolio:
+https://github.com/dobock13/CS-320-Software-Test-Automation
+
+--------------------------------------------------------------------------------
+2. CONTENIDO Y ARTEFACTOS INCLUIDOS EN EL REPOSITORIO
+--------------------------------------------------------------------------------
+El repositorio contiene todos los artefactos requeridos para el portafolio:
+
+A. Desde Proyecto Final I (Servicio de Contactos):
+   - Contact.java: Entidad de dominio con inmutabilidad de contactId y validaciones defensivas.
+   - ContactService.java: Servicio de gestión en memoria con estructura HashMap O(1) y mapas inmodificables.
+   - ContactTest.java: Suite de pruebas unitarias de entidad y valores límite (JUnit 5).
+   - ContactServiceTest.java: Suite de pruebas unitarias de lógica de negocio y protección de estado (JUnit 5).
+
+B. Desde Proyecto Final II (Informe de Resumen y Reflexiones):
+   - Informe_de_Resumen_y_Reflexiones_David_de_la_Cruz.docx: Documento formal en Word según formato APA 7.ª edición.
+   - 7-2 Proyecto final II.docx: Documento complementario de resumen y reflexiones del Proyecto Final II.
+
+C. Archivo README.md con la Reflexión del Portafolio:
+   - Contiene la descripción completa del proyecto, métricas de cobertura (100% de líneas y 100% de ramas en JaCoCo),
+     instrucciones de compilación y ejecución en JUnit 5.
+   - Incluye las respuestas detalladas y fundamentadas a las tres preguntas requeridas:
+     1. ¿Cómo me aseguro de que mi código, programa o software sea funcional y seguro?
+     2. ¿Cómo interpreto las necesidades del usuario y las incorporo en un programa?
+     3. ¿Cómo abordo el diseño de software?
+
+D. junit-platform-console-standalone.jar:
+   - Ejecutable para compilar y correr las pruebas directamente desde cualquier entorno de terminal.
+
+--------------------------------------------------------------------------------
+3. NOTA DE COLABORACIÓN PARA EL INSTRUCTOR
+--------------------------------------------------------------------------------
+El repositorio está configurado y disponible. Si el instructor requiere permisos adicionales de colaborador,
+puede enviar su usuario de GitHub o aceptar la invitación correspondiente enviada desde la plataforma de GitHub.
+================================================================================
